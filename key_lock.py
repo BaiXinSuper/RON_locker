@@ -1,5 +1,5 @@
 import autopy,time,psutil,datetime,math
-print('开源地址： ')
+print('开源地址： https://github.com/BaiXinSuper/RON_locker')
 print('解决RON鼠标锁定的屌毛弱智问题')
 nix_progress_id=0
 while 1:
